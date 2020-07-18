@@ -1,0 +1,70 @@
+body {
+    color: #DAD6D6;
+    background: 
+
+    #808080;
+    text-align: center;
+  }
+  
+  #start {
+    margin: 40px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: #008ae6;
+    border:solid 2px #008ae6;
+    border-radius:5px;
+    padding:10px 30px 10px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  
+  #stop {
+    margin: 40px 5px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: #4d0026;
+    border:solid 2px #4d0026;
+    border-radius:5px;
+    padding:10px 30px 10px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  
+  #clear {
+    margin: 40px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: 	 #6b6b47;
+    border:solid 2px 	 #6b6b47;
+    border-radius:5px;
+    padding:10px 30px 10px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  
+  h2
+  {
+    font-size: 46px;
+    letter-spacing: 2px;
+    margin: 200px 0 0 ;
+    display: inline;
+  }
+ #min{
+   margin: 30px;
+
+ }
+
+
+
+ #sec{
+   margin: 30px;
+ }
+
+
+ #msec{
+ margin: 30px;
+
+ }
+ .safdar{
+   margin-top: 230px;
+ }
